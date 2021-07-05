@@ -1,0 +1,41 @@
+body{
+    font-family: 'Yomogi', cursive;
+    font-size: 30px;
+    margin: 0;
+}
+.color{
+    color: coral;
+}
+section{
+    display: flex; 
+
+}
+#image-border{
+    border-radius:200px;
+
+}
+.half-width{
+   width:60%; 
+   padding-left: 50px;
+   margin-left: 5px;
+}
+.half-width img{
+    width:70%;
+}
+.link-button{
+    text-decoration: none;
+  background-color: orange;
+  
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+    
+   

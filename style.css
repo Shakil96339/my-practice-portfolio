@@ -7,11 +7,12 @@ body{
     color: coral;
 }
 section{
-    display: flex; 
+    display: flex;
+    margin-bottom: 150px; 
 
 }
-#image-border{
-    border-radius:200px;
+.image-border{
+    border-radius:300px;
 
 }
 .half-width{
@@ -36,6 +37,10 @@ section{
     background-repeat: no-repeat;
     background-position: left;
 }
-
+.dream-big{
+    background-image:url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
     
    
